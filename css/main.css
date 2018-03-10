@@ -1,0 +1,66 @@
+.maindiv{
+  background: aqua;
+  display: flex;
+  justify-content: space-around;
+}
+
+.sub1{
+  background:gray;
+  box-shadow: 2px 2px 2px;
+  border:solid;
+  border-radius: 25px;
+}
+.sub2{
+  background:green;
+  box-shadow:2px 2px 2px;
+  border:solid;
+  border-radius: 25px;
+
+}
+
+.sub3{
+  background: pink;
+  box-shadow:2px 2px 2px;
+  border:solid;
+  border-radius: 25px;
+
+}
+body{
+  text-align: center;
+  background:pink;
+}
+.image2{
+  margin:6px;
+border-radius: 25px;
+  height: 150px;
+  width: 150px;
+}
+.image1{
+  margin:6px;
+  border-radius: 20px;
+  height: 150px;
+  width: 150px;
+}
+.image3{
+  margin:6px;
+  border-radius: 20px;
+  height:150px;
+  width: 150px;
+}
+@media only screen and (max-width: 600px) {
+.maindiv{
+  flex-wrap: wrap;
+}
+.sub1{
+  width:100%;
+  display: flex;
+}
+.sub2{
+  width:100%;
+  display: flex;
+}
+.sub3{
+  width:100%;
+  display: flex;
+}
+}

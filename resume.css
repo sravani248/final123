@@ -1,0 +1,58 @@
+.maindiv{
+  background: green;
+  display: flex;
+  justify-content: space-between;
+  }
+  .leftdiv{
+    text-align: center;
+    height: auto;
+  background:pink;
+  width: 25%;
+  position: fixed;
+  }
+  .rightdiv{
+    margin-left: 26%;
+    background: gray;
+      width: 75%;
+      padding:10px;
+
+  }
+  .image1{
+    width: 85%;
+  }
+  @media all and (min-width:360px) and (max-width:650px){
+    body{
+      background:cyan;
+    }
+    .maindiv{
+      width:100%;
+      flex-wrap: wrap;
+    }
+    .leftdiv{
+      width:100%;
+      position: relative;
+      display:flex;
+    }
+    .rightdiv{
+      width:100%;
+      margin-left: 0%;
+    }
+      @media all and (min-width:360px) and (max-width:499px){
+
+
+        .maindiv{
+            background:red;
+          width:100%;
+
+        }
+        .leftdiv{
+          width:100%;
+          display:flex;
+          margin-left: 0%;
+        }
+        .rightdiv{
+          width:100%;
+
+        }
+  }
+}

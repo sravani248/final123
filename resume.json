@@ -1,0 +1,99 @@
+{
+  "basics": {
+    "name": "sravani saragadam",
+    "label": "student",
+    "picture": "images/image4",
+    "email": "sravanisaragadam48@gmail.com",
+    "phone": "7569553533",
+    "degree": "B.Tech",
+    "website": "",
+    "summary": "",
+    "highlights": null,
+    "location": {
+      "address": "Chowduwada",
+      "postalCode": "531440",
+      "city": "anakapalli",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "additionalWork": [
+    {
+      "company": "",
+      "position": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        ""
+      ]
+    }
+  ],
+  "workLabel": "",
+  "additionalWorkLabel": "",
+  "education": [
+    {
+      "institution": "SIR CR Reddy Engineering College,Eluru",
+      "area": "vatluru",
+      "studyType": "Computer Science Engineering",
+      "startDate": "2016",
+      "endDate": "2019",
+      "gpa": "78*",
+      "courses": [
+        ""
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "additionalPublications": [
+    {
+      "name": "",
+      "publisher": "",
+      "releaseDate": "",
+      "website": "",
+      "summary": "",
+      "isbn": ""
+    }
+  ],
+  "publicationsLabel": "",
+  "additionalPublicationsLabel": "",
+  "skills": [
+    {
+      "name": "",
+      "level": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ]
+}
